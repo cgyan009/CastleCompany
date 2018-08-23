@@ -1,0 +1,7 @@
+C:\Users\yancg\Desktop\Task02\CastleCompany\CastleCompany\bin\Debug\CastleCompany.exe.config
+C:\Users\yancg\Desktop\Task02\CastleCompany\CastleCompany\bin\Debug\CastleCompany.exe
+C:\Users\yancg\Desktop\Task02\CastleCompany\CastleCompany\bin\Debug\CastleCompany.pdb
+C:\Users\yancg\Desktop\Task02\CastleCompany\CastleCompany\obj\Debug\CastleCompany.csprojAssemblyReference.cache
+C:\Users\yancg\Desktop\Task02\CastleCompany\CastleCompany\obj\Debug\CastleCompany.csproj.CoreCompileInputs.cache
+C:\Users\yancg\Desktop\Task02\CastleCompany\CastleCompany\obj\Debug\CastleCompany.exe
+C:\Users\yancg\Desktop\Task02\CastleCompany\CastleCompany\obj\Debug\CastleCompany.pdb
